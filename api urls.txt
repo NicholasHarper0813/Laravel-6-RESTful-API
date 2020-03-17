@@ -1,0 +1,10 @@
+URL for POST:
+http://127.0.0.1:8000/api/country
+URL for GET:
+http://127.0.0.1:8000/api/country
+URL for GET with Id:
+http://127.0.0.1:8000/api/country/{id}
+URL for PUT to update with Id:
+http://127.0.0.1:8000/api/country/{id}
+URL for DELETE with Id:
+http://127.0.0.1:8000/api/country/{id}
