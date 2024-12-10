@@ -3,13 +3,9 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
-        <title>Laravel</title>
-
-        <!-- Fonts -->
+        <title>Welcome</title>
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
 
-        <!-- Styles -->
         <style>
             html, body {
                 background-color: #fff;
@@ -22,6 +18,14 @@
 
             .full-height {
                 height: 100vh;
+            }
+            
+            .content {
+                text-align: center;
+            }
+
+            .title {
+                font-size: 84px;
             }
 
             .flex-center {
@@ -39,13 +43,9 @@
                 right: 10px;
                 top: 18px;
             }
-
-            .content {
-                text-align: center;
-            }
-
-            .title {
-                font-size: 84px;
+            
+            .m-b-md {
+                margin-bottom: 30px;
             }
 
             .links > a {
@@ -56,10 +56,6 @@
                 letter-spacing: .1rem;
                 text-decoration: none;
                 text-transform: uppercase;
-            }
-
-            .m-b-md {
-                margin-bottom: 30px;
             }
         </style>
     </head>
@@ -88,10 +84,10 @@
                     <a href="https://laravel.com/docs">Docs</a>
                     <a href="https://laracasts.com">Laracasts</a>
                     <a href="https://laravel-news.com">News</a>
-                    <a href="https://blog.laravel.com">Blog</a>
                     <a href="https://nova.laravel.com">Nova</a>
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://vapor.laravel.com">Vapor</a>
+                    <a href="https://blog.laravel.com">Blog</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
             </div>
